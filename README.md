@@ -22,7 +22,7 @@ Key insights include:
 ![Inflation Heatmap](inflation_heatmap.png)  
 
 ### Average Inflation in High-GDP Countries  
-![Average Inflation](avg_inflation (1).png)  
+![Average Inflation](avg_inflation.png)  
 
 ## 📂 Data Sources  
 - [World Bank GDP Dataset](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
