@@ -12,7 +12,17 @@ Key insights include:
 - **Jupyter Notebook**  
 
 ## 📈 Visuals  
-![GDP Trends](your_chart_image.png)  
+### GDP Trends Over Time  
+![GDP Trends](gdp_trends.png)  
+
+### GDP vs Inflation  
+![GDP vs Inflation](gdp_vs_inflation.png)  
+
+### Inflation Over Time (Heatmap)  
+![Inflation Heatmap](inflation_heatmap.png)  
+
+### Average Inflation in High-GDP Countries  
+![Average Inflation](avg_inflation.png)  
 
 ## 📂 Data Sources  
 - [World Bank GDP Dataset](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
